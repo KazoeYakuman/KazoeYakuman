@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KazoeYakuman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @KazoeYakuman.
+- 👀 I’m interested in Richi Mahjong, Go Game.
+- 🌱 I’m currently learning Time Series Forecasting.
+- 💞️ >_<
+- 📫 ~_~
 
 <!---
 KazoeYakuman/KazoeYakuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
