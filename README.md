@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KazoeYakuman.
 - 👀 I’m interested in Richi Mahjong, Go Game.
-- 🌱 I’m currently learning Time Series Forecasting.
+- 🌱 I’m currently learning LLM.
 - 💞️ >_<
 - 📫 ~_~
 
