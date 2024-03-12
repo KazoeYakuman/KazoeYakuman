@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KazoeYakuman.
 - 👀 I’m interested in Richi Mahjong, Go Game.
-- 🌱 I’m currently learning LLM.
+- 🌱 I’m currently learning LLM with Privacy.
 - 💞️ >_<
-- 📫 ~_~
+- 📫 -_-
 
 <!---
 KazoeYakuman/KazoeYakuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
