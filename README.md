@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KazoeYakuman.
 - 👀 I’m interested in Richi Mahjong, Go Game.
-- 🌱 I’m currently learning LLM with Privacy.
+- 🌱 U_U
 - 💞️ >_<
 - 📫 -_-
 
